@@ -1,6 +1,6 @@
 # Intel HLS
 
-## Install
+## Intel Quartus HLS Install on Ubuntu 16.04
 + Install **gcc-4.4.7**: add to `/etc/apt/source.list`
 > `deb http://dk.archive.ubuntu.com/ubuntu/ trusty main universe`</br>
 `deb http://dk.archive.ubuntu.com/ubuntu/ trusty-updates main universe`</br>
