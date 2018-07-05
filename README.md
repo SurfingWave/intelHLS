@@ -33,7 +33,5 @@
 | Options |      Meanings      |
 |----------|:-------------|
 |test-gpp | Compile the component and testbench using g++ and run them as a regular program | 
-|test-x86-64 |    Run the testbench and the component as a regular program
-   |
-|test-fpga | Run a simulation with the C testbench and verilog component
- |
+|test-x86-64 | Run the testbench and the component as a regular program
+|test-fpga | Run a simulation with the C testbench and verilog component|
