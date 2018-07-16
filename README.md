@@ -18,7 +18,7 @@
     `sudo apt-get install libzmq3-dev`</br> 
 
 + Add  ` modelsim `  to system path to find `vsim`;
-> Add  `export intelFPGA_lite/18.0/modelsim_ase/linuxaloem`  to the end of `~/.profile`.
+> Add  `export PATH="$PATH:intelFPGA_lite/18.0/modelsim_ase/linuxaloem"`  to the end of `~/.profile`.
 
 + Move `gcc5.4` library to other place or delete;
 > At path `/usr/lib/gcc/x86_64-linux-gnu/` do `sudo mv 5 /home/wyk/Desktop/`
