@@ -23,7 +23,11 @@
 + Move `gcc5.4` library to other place or delete;
 > At path `/usr/lib/gcc/x86_64-linux-gnu/` do `sudo mv 5 /home/wyk/Desktop/`
 
+<<<<<<< HEAD
 + Remove all other version of `gcc` the `gcc-*.*-linux` folders in `path_to_intelFPGA_lite/18.0/modelsim_ase`.
+=======
++ Remove all other version of `gcc` the `gcc-*.*-linux` folders from `path_to_intelFPGA_lite/18.0/modelsim_ase`.
+>>>>>>> origin/master
 
 ## Run
 + `source .profile` make `vsim` visiable;
